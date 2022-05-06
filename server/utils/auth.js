@@ -1,3 +1,4 @@
+// boiler-plate auth middleware
 const jwt = require("jsonwebtoken");
 
 const secret = "mysecretsshhhhh";
